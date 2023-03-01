@@ -1,0 +1,59 @@
+[33mcommit b13044ee1727589c9cf08453397ffe9507ea3475[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SamuelPaz10 <111510648+SamuelPaz10@users.noreply.github.com>
+Date:   Sun Feb 26 03:49:24 2023 -0600
+
+    Connection of the database and upload of the DATA to a collection.
+
+[33mcommit d7af0313258f366f4b9f4b702ba24afb60eb07ee[m
+Author: SamuelPaz10 <111510648+SamuelPaz10@users.noreply.github.com>
+Date:   Sat Feb 25 10:45:57 2023 -0600
+
+    Configuring environment.
+
+[33mcommit a0b74a87b1a7ab6d16d799206cbdf42b9af45483[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 10:35:48 2023 -0600
+
+    downsizing DB
+
+[33mcommit 9683ebf739e5cfcee57cec71bf9d962c4391cd79[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 01:58:05 2023 -0600
+
+    updating md, instrucciones
+
+[33mcommit b7ec826e2d067a3c96ceced3f789201a19c99bc5[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 01:56:00 2023 -0600
+
+    updating md, instrucciones
+
+[33mcommit 773fd47fc822542b4c7ddcd036e3f9a3bd13d4e4[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 01:52:16 2023 -0600
+
+    updating md, instrucciones
+
+[33mcommit 6360042304e4abb5908dbfc6e5d8df3ef481f0bb[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 01:38:09 2023 -0600
+
+    updating md, instrucciones
+
+[33mcommit ce6469f531e13fab4c22bf9058835cc61a525a1d[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 01:35:39 2023 -0600
+
+    updating md
+
+[33mcommit 43b5275c3bbc614c03bc397f3a67964c0edf7701[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 01:04:19 2023 -0600
+
+    updating md
+
+[33mcommit 9f18f8159ed6cd1b5b16f823839b1d47c19fe136[m
+Author: Uayeb Caballero <uayeb.caballero@gmail.com>
+Date:   Sat Feb 25 00:57:31 2023 -0600
+
+    examen first commit
